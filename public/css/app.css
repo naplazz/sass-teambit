@@ -1,0 +1,124 @@
+.topbar {
+  height: 62px;
+  margin: 0 100px;
+  border-bottom: 1px solid lightgray;
+}
+
+.logo {
+  float: left;
+}
+
+.logo img {
+  width: 200px;
+  border: 1px solid lightgray;
+}
+
+.nav {
+  float: right;
+  padding: 20px 0;
+}
+
+.nav a {
+  margin: 0 0 0 40px;
+  font-family: "HarmoniaSansProCyr-Regular", Arial, sans-serif;
+  text-decoration: none;
+  color: #58402c;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.slider {
+  clear: left;
+  font-family: "HarmoniaSansProCyr-Regular", Arial, sans-serif;
+  margin: 0 100px;
+  padding-top: 50px;
+  display: flex;
+}
+
+.slider .headings {
+  width: 50%;
+}
+
+.slider .headings h1 {
+  font-size: 50px;
+  margin: 25px;
+  color: #58402c;
+}
+
+.slider .headings h3 {
+  font-size: 25px;
+  margin: 20px;
+  font-weight: normal;
+  color: #58402c;
+}
+
+.slider .headings button {
+  height: 35px;
+  line-height: 35px;
+  padding: 0 20px;
+  color: #fff;
+  font-size: 0.875rem;
+  background: #30488f;
+  border-radius: 7px;
+  border: none;
+}
+
+.slider .headings button img {
+  width: 18px;
+  margin-bottom: -4px;
+}
+
+.slider .headings a {
+  font-size: 14px;
+}
+
+.slider .photo {
+  width: 40%;
+}
+
+.slider .photo img {
+  width: 100%;
+}
+
+#homecontent {
+  background-color: #FFE7D2;
+}
+
+#homecontent h2 {
+  font-size: 26px;
+  text-align: center;
+  padding: 100px;
+  font-family: "HarmoniaSansProCyr-Regular", Arial, sans-serif;
+}
+
+.services {
+  display: flex;
+  justify-content: center;
+}
+
+.servitem {
+  width: 250px;
+}
+
+.servitem img {
+  max-width: 100%;
+  max-height: 100px;
+  margin: 50px;
+}
+
+.servitem p {
+  font-family: "HarmoniaSansProCyr-Regular", Arial, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  line-height: 30px;
+}
+
+.centerimg {
+  width: 100%;
+  text-align: center;
+}
+
+#centerimg {
+  width: 250px;
+}
+
